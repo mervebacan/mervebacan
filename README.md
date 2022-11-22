@@ -5,8 +5,6 @@
 
 ### Hi there I'm Merve Baçan 👋
 
-[mervebacan-cv (1).pdf](https://github.com/mervebacan/mervebacan/files/10070710/mervebacan-cv.1.pdf)
-
 <a href="https://www.linkedin.com/in/mervebacan/" target="_blank" rel="nofollow"><img alt="Merve's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mervebacan@gmail.com" target="_blank" rel="nofollow"><img alt="Merve's Mail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
